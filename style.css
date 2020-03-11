@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: rgb(43, 28, 28);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    text-align: center;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px lightgrey;
+}
+.images-box-shadow{
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+}
+.categori{
+    text-align: center;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+    
+}
